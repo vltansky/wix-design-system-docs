@@ -1,0 +1,12 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Wix Design System (WDS)",
+  "description": "Component library documentation for Wix Design System (WDS)",
+  "rules": [
+    "Use named imports: import { Button, Card } from '@wix/design-system'",
+    "Icons are separate: import { Edit } from '@wix/wix-ui-icons-common'",
+    "Check *Props.md for prop types and available example IDs",
+    "Check *Examples.md for implementation patterns",
+    "Prefer WDS layout primitives (Box, Card, Layout, Cell) over custom containers"
+  ]
+}
