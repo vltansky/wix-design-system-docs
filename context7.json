@@ -8,5 +8,7 @@
     "Check *Props.md for prop types and available example IDs",
     "Check *Examples.md for implementation patterns",
     "Prefer WDS layout primitives (Box, Card, Layout, Cell) over custom containers"
-  ]
+  ],
+  "url": "https://context7.com/vltansky/wix-design-system-docs",
+  "public_key": "pk_81gR7t4WHYX5P4nrFyFWH",
 }
