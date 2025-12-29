@@ -1,0 +1,18 @@
+{
+  "name": "wix-design-system-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm run setup",
+    "setup": "cp -r node_modules/@wix/design-system/dist/docs/* ./"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@wix/design-system": "^1.243.0",
+    "@wix/wix-ui-icons-common": "^3.125.0"
+  }
+}
